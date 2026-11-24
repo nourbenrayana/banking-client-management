@@ -1,0 +1,19 @@
+{
+    "back": {
+      "title": "Atrás",
+      "subtitle": "Volver a la pantalla anterior",
+      "frameinstruction": "Alinea tu rostro dentro del marco",
+      "hint": "Asegúrate de que tu rostro esté bien iluminado y visible",
+      "importButton": "Importar desde la galería",
+      "previewTitle": "Vista previa",
+      "sideLabel": "Lado",
+      "mrzCaptured": "MRZ capturado",
+      "retryButton": "Reintentar",
+      "confirmButton": "Confirmar",
+      "title": "Atrás",
+      "subtitle": "Volver a la pantalla anterior",
+      "frameinstruction": "Alinea tu rostro dentro del marco",
+      "hint": "Asegúrate de que tu rostro esté bien iluminado y visible",
+      "importButton": "Importar desde la galería"
+    }
+  }

@@ -1,0 +1,19 @@
+{
+  "back": {
+    "title": "Back",
+    "subtitle": "Return to previous screen",
+    "frameinstruction": "Align your face within the frame",
+    "hint": "Make sure your face is well lit and clearly visible",
+    "importButton": "Import from gallery",
+    "previewTitle": "Preview",
+    "sideLabel": "Side",
+    "mrzCaptured": "MRZ captured",
+    "retryButton": "Retry",
+      "confirmButton": "Confirm",
+      "title": "Back",
+      "subtitle": "Return to previous screen",
+      "frameinstruction": "Align your face within the frame",
+      "hint": "Make sure your face is well lit and clearly visible",
+      "importButton": "Import from gallery"
+  }
+}

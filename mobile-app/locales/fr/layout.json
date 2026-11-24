@@ -1,0 +1,11 @@
+{
+  "tabs": {
+    "home": "Accueil",
+    "profile": "Profil",
+    "exchange": "Échange",
+    "cards": "Cartes"
+  },
+  "notifications": {
+    "disabledAlert": "Les notifications sont désactivées !"
+  }
+}

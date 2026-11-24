@@ -1,0 +1,67 @@
+{
+  "expo": {
+<<<<<<< HEAD
+    "name": "MobileBankingUI",
+    "slug": "MobileBankingUI",
+=======
+    "name": "cam-app",
+    "slug": "cam-app",
+>>>>>>> 1dfc7ef186b686640f80cb313e05c6a934b90e90
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+<<<<<<< HEAD
+      },
+      "package": "com.anonymous.MobileBankingUI"
+=======
+      }
+>>>>>>> 1dfc7ef186b686640f80cb313e05c6a934b90e90
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+<<<<<<< HEAD
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/images/notification-icon.png",
+          "color": "#2E86DE",
+          "sounds": ["./assets/sounds/mixkit-positive-notification-951.wav"],
+          "mode": "production"
+        }
+=======
+>>>>>>> 1dfc7ef186b686640f80cb313e05c6a934b90e90
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 1dfc7ef186b686640f80cb313e05c6a934b90e90

@@ -1,0 +1,13 @@
+{
+  "dashboard": {
+    "greeting": "Hello, {{name}}!",
+    "welcome": "Welcome back to your dashboard",
+    "quickActions": "Quick Actions",
+    "send": "Send",
+    "pay": "Pay",
+    "request": "Request",
+    "recentTransactions": "Recent Transactions",
+    "viewAll": "View All",
+    "noTransactions": "No recent transactions"
+  }
+}   

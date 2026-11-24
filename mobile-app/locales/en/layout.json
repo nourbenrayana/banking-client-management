@@ -1,0 +1,11 @@
+{
+  "tabs": {
+    "home": "Home",
+    "profile": "Profile",
+    "exchange": "Exchange",
+    "cards": "Cards"
+  },
+  "notifications": {
+    "disabledAlert": "Notifications are disabled!"
+  }
+}

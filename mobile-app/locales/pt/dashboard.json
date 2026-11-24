@@ -1,0 +1,13 @@
+{
+  "dashboard": {
+    "greeting": "Olá, {{name}}!",
+    "welcome": "Bem-vindo de volta ao seu painel",
+    "quickActions": "Ações rápidas",
+    "send": "Enviar",
+    "pay": "Pagar",
+    "request": "Solicitar",
+    "recentTransactions": "Transações recentes",
+    "viewAll": "Ver tudo",
+    "noTransactions": "Nenhuma transação recente"
+  }
+}

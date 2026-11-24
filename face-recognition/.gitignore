@@ -1,0 +1,14 @@
+# Environnement virtuel
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires ou générés
+*.pkl
+detected_faces/
+detected_text/
+registered_faces/
+responses.log
+certificates/

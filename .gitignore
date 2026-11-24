@@ -1,0 +1,50 @@
+:::writing{variant="standard" id="63822"}
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Expo
+.expo/
+**/.expo/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+.venv/
+
+# Certificates and private keys
+certificates/
+**/certificates/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Biometric and generated data
+detected_faces/
+detected_text/
+registered_faces/
+embeddings/
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+:::
